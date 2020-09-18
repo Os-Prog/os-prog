@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/Os-Prog/gif/master/j0nesadfz9fifxyd15mr.gif" width="30px">
+<img src="https://raw.githubusercontent.com/Os-Prog/gif/master/j0nesadfz9fifxyd15mr.gif" width="300px">
 
 Here are some ideas to get you started:
 
